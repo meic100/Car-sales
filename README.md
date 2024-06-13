@@ -26,5 +26,10 @@
 <!-- Downloadable files -->
 <h3> Download files </h3>
 
-<!-- .ipynb file to produce analysis stored in repository meic100/Dominos-Pizza -->
-[.ipynb Python Jupyter Notebook file of the analysis ](https://github.com/meic100/Car-sales/blob/a5455cd7bb1e68ed94f2eb1f56c054d59bb2269e/Car%20Sales%20Assessment%20-%20import%20data%20from%20local%20file.ipynb)
+<!-- .ipynb file to produce analysis stored in repository meic100/Car-sales -->
+[.ipynb Python Jupyter Notebook file of the analysis](https://github.com/meic100/Car-sales/blob/a5455cd7bb1e68ed94f2eb1f56c054d59bb2269e/Car%20Sales%20Assessment%20-%20import%20data%20from%20local%20file.ipynb)
+
+<br>
+
+<!-- .csv file containing data for analysis stored in repository meic100/Car-sales -->
+[.csv file containing data for analysis](https://github.com/meic100/Car-sales/blob/5c58d8cf86ef9da054058b6e70bd1b3bdab3b772/CarSalesData.csv)
