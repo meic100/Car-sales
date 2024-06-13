@@ -11,7 +11,7 @@
 
 <!-- Python used to create "Calculated Columns" -->
 <h3> Add a new column to show if the car was sold for more than it was bought </h3>
-<p dir="auto"><img src="https://github.com/meic100/Car-sales/assets/169346776/b39595b6-ee01-41b6-acd6-7c7a7b732601" style="max-width: 50%;">
+<p dir="auto"><img src="https://github.com/meic100/Car-sales/assets/169346776/d1be15fa-b644-4eba-9347-b13d03bc8723" style="max-width: 50%;">
 </p>
 
 <br>
