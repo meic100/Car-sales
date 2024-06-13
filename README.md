@@ -27,7 +27,7 @@
 <h3> Download files </h3>
 
 <!-- .ipynb file to produce analysis stored in repository meic100/Car-sales -->
-[.ipynb Python Jupyter Notebook file of the analysis](https://github.com/meic100/Car-sales/blob/a5455cd7bb1e68ed94f2eb1f56c054d59bb2269e/Car%20Sales%20Assessment%20-%20import%20data%20from%20local%20file.ipynb)
+[.ipynb Python Jupyter Notebook file of the analysis](https://github.com/meic100/Car-sales/blob/52cd70096e1927dc64ed0cd22520eb797e3fff0c/Car%20Sales%20Analysis.ipynb)
 
 <br>
 
