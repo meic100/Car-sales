@@ -1,0 +1,101 @@
+CarSaleID,Brand,Model,BuyingPrice,SellingPrice
+1,Mitsubishi,Eclipse,46697.16,
+2,Ford,Festiva,41107.23,8529.54
+3,Cadillac,XLR,24982.65,4048.91
+4,Cadillac,Eldorado,1599.61,83575.23
+5,Acura,RL,46619.28,
+6,Corbin,Sparrow,45533.84,66986.16
+7,GMC,Canyon,9408.15,65708.52
+8,Lexus,GX,10079.83,44961.19
+9,Alfa Romeo,164,42510.07,42428.99
+10,Volvo,S70,28402.34,75391.74
+11,BMW,7 Series,1412.61,83471.52
+12,Toyota,Land Cruiser,36955.8,99620.44
+13,Hyundai,Santa Fe,49500.73,29185.1
+14,Ford,F250,,78761.27
+15,Oldsmobile,Bravada,31553.2,14734.98
+16,Hyundai,Azera,16332.48,
+17,Chevrolet,Corsica,10215.98,33900.96
+18,Ford,Crown Victoria,1045.55,39193.31
+19,Mitsubishi,Pajero,,71406.09
+20,Acura,NSX,,15153.52
+21,Volkswagen,Cabriolet,1500.16,54939.93
+22,Chevrolet,Express 1500,45659.39,93034.59
+23,Subaru,Outback Sport,41007.89,
+24,Mercury,Villager,21527.89,45967.84
+25,Mercedes-Benz,CL-Class,41191.04,61141.7
+26,Lincoln,Town Car,4795.5,88159.94
+27,Buick,Enclave,46538.8,50905.47
+28,Mazda,MX-6,5110.96,78970.04
+29,Honda,CR-V,11574.53,72523.91
+30,Infiniti,FX,12389.65,
+31,Audi,A6,2836.81,23543.17
+32,Lexus,RX,1126.51,77828.45
+33,Subaru,Justy,43675.39,
+34,Ford,Freestar,26210.69,59443.33
+35,Pontiac,G5,48230.83,
+36,Volkswagen,GTI,36205.6,38638.41
+37,Audi,S8,16832.47,59078.6
+38,Toyota,Solara,,
+39,Mercury,Grand Marquis,5917.19,9888.28
+40,Mitsubishi,Galant,35903.56,40634.63
+41,Buick,Verano,39104.16,9803.12
+42,Isuzu,Oasis,,42134.97
+43,Mitsubishi,Mirage,11744.72,49071.54
+44,Ferrari,612 Scaglietti,32095.98,6639.91
+45,Ford,Focus,12100.24,36493.47
+46,Chevrolet,Blazer,24327.57,70400.39
+47,Kia,Amanti,27054.11,20405.74
+48,Mercedes-Benz,CLK-Class,,
+49,Mazda,Tribute,41476.87,
+50,Toyota,Tundra,39689.42,74648.94
+51,Mazda,MX-3,48366.08,
+52,Infiniti,FX,32051.56,39412.55
+53,Mazda,MX-5,,81865.17
+54,Suzuki,Esteem,44694.53,93650.22
+55,MINI,Cooper Countryman,17633.64,
+56,GMC,Yukon,37694.49,16296.84
+57,Toyota,Solara,17459.45,38847.27
+58,Chevrolet,Silverado 2500,2710.95,57891.73
+59,Chevrolet,Corvette,15149.51,34402.19
+60,Buick,Riviera,31214.09,46729.69
+61,Pontiac,Daewoo Kalos,39466.8,44138.4
+62,Mazda,B-Series,9053.96,90697.85
+63,Volkswagen,rio,19766.56,89346.97
+64,Land Rover,Range Rover Sport,27515.28,57456.48
+65,Audi,4000CS Quattro,41044.16,95593.86
+66,Isuzu,Trooper,20604.56,69220.52
+67,Porsche,911,37168.78,
+68,Aston Martin,Virage,909.62,99653.85
+69,Ford,F150,49350.02,25901.27
+70,GMC,Savana 2500,26424.21,51157.81
+71,Mazda,MPV,32348.53,46307.17
+72,Chevrolet,Suburban,19591.18,
+73,Saab,9-3,43036.79,34780.98
+74,Dodge,Intrepid,10318.87,55171.94
+75,Oldsmobile,98,31372.2,84176.7
+76,BMW,Z3,21402.09,
+77,Suzuki,Sidekick,44592.97,
+78,Ford,E-Series,1237.28,7696.22
+79,Ford,F-Series,32050.83,32701.95
+80,Mercedes-Benz,SL-Class,,87138.33
+81,Daewoo,Lanos,9175.49,85254.08
+82,Audi,200,46523.19,45747.41
+83,Ford,Mustang,29003.67,93442.63
+84,Nissan,Cube,48422.4,71815.23
+85,Lexus,ES,12694.7,
+86,Plymouth,Acclaim,20907.43,20946.28
+87,Chevrolet,Silverado,30850.42,69407.17
+88,Chevrolet,S10,10456.76,5747.92
+89,Ford,Aerostar,17649.48,34622.49
+90,Mazda,Navajo,6418.86,32376.7
+91,Mazda,B-Series Plus,35388.61,50904.05
+92,Mercedes-Benz,E-Class,30346.66,3452.27
+93,Ferrari,458 Italia,9607.91,71874.12
+94,Volkswagen,Jetta,25941.48,17569.11
+95,Ford,Mustang,14674.94,12010.62
+96,GMC,Sonoma Club Coupe,4214.93,24509.82
+97,Subaru,Leone,44519.55,37449.81
+98,Ford,Contour,7116.29,29959.23
+99,Dodge,Daytona,21005.42,50325.66
+100,Dodge,Magnum,,65038.39
