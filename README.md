@@ -4,7 +4,7 @@
 <br>
 <!-- Python used to clean data -->
 <h3> Cleaning data by removing all rows containing null values </h3>
-<p dir="auto"><img src="https://github.com/meic100/Car-sales/assets/169346776/d6c083ea-4acf-4308-8bc7-50f4ee346031" style="max-width: 50%;">
+<p dir="auto"><img src="https://github.com/meic100/Car-sales/assets/169346776/8c5b3f8a-5aa3-4090-97ef-6538115f6805" style="max-width: 50%;">
 </p>
 
 <br>
