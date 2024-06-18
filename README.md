@@ -16,6 +16,8 @@
 <p dir="auto"><img src="https://github.com/meic100/Car-sales/assets/169346776/96fa4a69-a650-46f6-aca2-5387d4bb63cc" style="max-width: 50%;">
 </p>
 
+<br>
+
 <!-- Downloadable files -->
 <h2> Download files </h2>
 
